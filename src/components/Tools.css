@@ -111,3 +111,7 @@
 .sign-in-button input:hover {
   background: linear-gradient(0deg, rgba(32, 255, 11, 0.849), rgb(57, 255, 73));
 }
+
+table, th, td {
+  border: 1px solid rgb(255, 255, 255);
+}
